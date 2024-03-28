@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hola, mi nombre es Laura Luque 👋
 
-<!--
-**Laura-luque/Laura-luque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy bioinformática y casi desarrolladora de páginas web 😄
 
-Here are some ideas to get you started:
+Actualmente me estoy formando en React 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías ⚡
+---
+- Python
+- HTML5
+- CSS3
+- PHP
+- JavaScript
+- React
+- R
+
+## Encuentrame en 💬
+---
+- [LinkedIn](https://www.linkedin.com/in/laura-luque-bravo-897568106)
+- [X](https://twitter.com/Laura_L_B_)
