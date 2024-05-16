@@ -16,6 +16,8 @@ Actualmente me estoy formando en React 🌱
 - R
 
 ## Encuentrame en 💬
+<a href="https://www.linkedin.com/in/laura-luque-bravo-897568106" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://laura-luque.github.io/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 - [LinkedIn](https://www.linkedin.com/in/laura-luque-bravo-897568106)
 - [X](https://twitter.com/Laura_L_B_)
