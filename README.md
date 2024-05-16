@@ -6,8 +6,15 @@ Actualmente me estoy formando en React 🌱
 
 ## Tecnologías ⚡
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laura-luque&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html5,css3,r,markdown,react" alt="widgetBox" />
-<img src="https://img.shields.io/badge/Tech%20Stack-JavaScript%20%7C%20PHP%20%7C%20Python%20%7C%20HTML5%20%7C%20CSS3%20%7C%20R%20%7C%20Markdown%20%7C%20React-blue" alt="tech"/>
+
+<img src="https://img.shields.io/badge/-JavaScript-yellow" alt="js" />
+<img src="https://img.shields.io/badge/-PHP-blue" alt="php" />
+<img src="https://img.shields.io/badge/-Python-blue" alt="python" />
+<img src="https://img.shields.io/badge/-HTML5-orange" alt="html" />
+<img src="https://img.shields.io/badge/-CSS3-blue" alt="css" />
+<img src="https://img.shields.io/badge/-R-green" alt="r" />
+<img src="https://img.shields.io/badge/-Markdown-lightgrey" alt="md" />
+<img src="https://img.shields.io/badge/-React-blue" alt="react" />
 
 
 ## Encuentrame en 💬
