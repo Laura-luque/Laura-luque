@@ -5,7 +5,7 @@ Soy bioinformática y casi desarrolladora de páginas web 😄
 Actualmente me estoy formando en React 🌱
 
 ## Tecnologías ⚡
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=laura-luque&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 - Python
 - HTML5
