@@ -6,7 +6,8 @@ Actualmente me estoy formando en React 🌱
 
 ## Tecnologías ⚡
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laura-luque&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-[(https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html5,css3,r,markdown)](https://github.com/laura-luque/github-widgetbox)
+<a href="https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html5,css3,r,markdown,react&includeNames=true" alt="widgetBox" />
+https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html5,css3,r,xml,json,mysql,markdown,react)](https://github.com/Jurredr/github-widgetbox
 - Python
 - HTML5
 - CSS3
