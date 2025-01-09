@@ -14,6 +14,7 @@ Actualmente me estoy formando en React 🌱
 <img src="https://img.shields.io/badge/-R-green" alt="r" />
 <img src="https://img.shields.io/badge/-MD-black" alt="md" />
 <img src="https://img.shields.io/badge/-React-blue" alt="react" />
+<img src="https://img.shields.io/badge/-SQL-orange" alt="sql" />
 
 
 ## Encuentrame en 💬
