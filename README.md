@@ -1,8 +1,8 @@
 # Hola, mi nombre es Laura Luque 👋
 
-Soy bioinformática y casi desarrolladora de páginas web 😄
+Soy bioinformática y Data engineer 😄
 
-Actualmente me estoy formando en React 🌱
+Actualmente estoy trabajando con SQL server y ETL en VS. 🌱
 
 ## Tecnologías ⚡
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laura-luque&theme=github_dark" alt="ovi"/>
