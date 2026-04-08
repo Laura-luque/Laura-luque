@@ -5,7 +5,7 @@ Soy bioinformática y casi desarrolladora de páginas web 😄
 Actualmente me estoy formando en React 🌱
 
 ## Tecnologías ⚡
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=laura-luque&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=laura-luque&theme=github_dark" alt="ovi"/>
 
 <img src="https://img.shields.io/badge/-JS-yellow" alt="js" /> <img src="https://img.shields.io/badge/-PHP-blue" alt="php" /> 
 <img src="https://img.shields.io/badge/-Python-orange" alt="python" /> 
